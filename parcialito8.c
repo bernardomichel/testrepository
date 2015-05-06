@@ -15,5 +15,6 @@ main()
 	printf("%s\n",tomas.name);
 	printf("%d\n",tomas.edad);
 	printf("hola");
+	printf("esta es la tercera edición que se le hace al main");
 
 }
